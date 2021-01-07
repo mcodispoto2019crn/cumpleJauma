@@ -184,7 +184,7 @@ font-family: 'Indie Flower', cursive;
 #card.open-fully #card-front,
 #card.close-half #card-front {
   background: #FFEFEF;
-  
+
 }
 
 #card.open-fully #card-front {
@@ -339,6 +339,9 @@ font-family: 'Lobster', cursive;
     -webkit-transform: translateY(0);
             transform: translateY(0);
   }
+}
+center{
+  padding-top:40px;
 }
 .text {
   color: #8b6a60;
